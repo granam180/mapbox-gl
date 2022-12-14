@@ -1,2 +1,1 @@
-# mapbox-gl
- mapbox-gl projects
+## Mapbox-GL projects
